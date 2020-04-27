@@ -18,7 +18,7 @@ https://chrome.google.com/webstore/detail/redrain-access-local-file/cnaknjccacfk
 # Original Extension
 https://github.com/tksugimoto/chrome-extension_open-local-file-link
 
-Original chrome extension onyl allowed to open the local links. I have modified the code to execute window.open from the frame access over cross domain.
+Original chrome extension only allowed to open the local links. I have modified the code to execute window.open from the frame access over cross domain.
 
 # Description for Chrome Store
 [./chrome-store/description/en.txt](./chrome-store/description/en.txt)
