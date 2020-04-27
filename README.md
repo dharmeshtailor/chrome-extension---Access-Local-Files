@@ -4,7 +4,7 @@
 Unlike IE, Chrome can not open a link to a local file (file://).
 This extension allows you to open a local file link.
 
-# execute window.open from within frame access over cross domain
+# window.open from the iframe
 Chrome blocks all the window.open that are click from the frame over the cross domain.
 This extension allows you to open the window.
 
