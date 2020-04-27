@@ -1,0 +1,12 @@
+{
+	"extension_name": {
+		"message": "RedRain : Access local files."
+	},
+	"extension_description": {
+		"message": "Open a link to a local file or execute the window.open from within the iframe."
+	},
+
+	"page_not_loaded": {
+		"message": "The page is not loaded."
+	}
+}
