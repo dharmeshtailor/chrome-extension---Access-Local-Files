@@ -1,8 +1,6 @@
 
 window.addEventListener('click', evt => {
 	
-	if (!evt.isTrusted) return;
-	
 	let target = evt.target;
 	while (target && target.tagName.toLowerCase() !== 'a') {
 		target = target.parentElement;
